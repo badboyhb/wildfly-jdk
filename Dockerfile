@@ -15,4 +15,3 @@ USER jboss
 
 # Set the JAVA_HOME variable to make it clear where Java is located
 ENV JAVA_HOME /usr/lib/jvm/java
-
